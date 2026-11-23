@@ -26,7 +26,7 @@ cd proyecto-git
 ## Estructura
 
 - `index.html`: contenido y estructura de la página.
-- `.gitignore`: excluye `.vscode/` y archivos temporales comunes.
+- `.gitignore`: excluye `.vscode/`, el PDF local de entrega y archivos temporales comunes.
 - `README.md`: documentación del proyecto.
 
 ## Mejoras implementadas
